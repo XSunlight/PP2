@@ -1,0 +1,5 @@
+C:\Users\XSunlight\Documents\Projects\Week2\Task2\Task2\obj\x86\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Users\XSunlight\Documents\Projects\Week2\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\XSunlight\Documents\Projects\Week2\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\XSunlight\Documents\Projects\Week2\Task2\Task2\obj\x86\Debug\Task2.exe
+C:\Users\XSunlight\Documents\Projects\Week2\Task2\Task2\obj\x86\Debug\Task2.pdb
