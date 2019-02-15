@@ -6,7 +6,7 @@ namespace Task3
 	{
 		public static void Main (string[] args)
 		{
-			int n = Convert.ToInt32 (Console.ReadLine ());//создание переменной и задание значение
+			int n = Convert.ToInt32 (Console.ReadLine ());//создание переменной и задание значения
 			int[] ar1 = new int[n];//создание массива с типом integer
 			int[] ar2 = new int[n * 2];//создание массива с типом integer у которого размер в 2 раза больше предыдущего массива
 			string[] s = Console.ReadLine ().Split ();//создание стрингового массива
