@@ -162,7 +162,7 @@ namespace Task1
 							});
 					}
 					break;
-				case ConsoleKey.F1:
+				case ConsoleKey.F2:
 					if (LayerMode == FSIMode.FileInfo || l.Content.Length == 0)
 						break;
 					string fullname = l.Content[l.SelectedIndex].FullName;
